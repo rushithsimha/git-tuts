@@ -1,0 +1,1 @@
+print("rushith simha + entry course")
